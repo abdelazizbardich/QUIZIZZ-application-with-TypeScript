@@ -1,0 +1,23 @@
+{
+  "name": "quizizz-application-with-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelazizbardich/QUIZIZZ-application-with-TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdelazizbardich/QUIZIZZ-application-with-TypeScript/issues"
+  },
+  "homepage": "https://github.com/abdelazizbardich/QUIZIZZ-application-with-TypeScript#readme",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  }
+}
