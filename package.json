@@ -18,6 +18,10 @@
     "url": "https://github.com/abdelazizbardich/QUIZIZZ-application-with-TypeScript/issues"
   },
   "homepage": "https://github.com/abdelazizbardich/QUIZIZZ-application-with-TypeScript#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1"
+  },
   "dependencies": {
+    "bootstrap": "^5.1.3"
   }
 }

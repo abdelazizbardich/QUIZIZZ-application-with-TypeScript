@@ -1,4 +1,4 @@
-type ssfsdsf = string
+import "../../node_modules/bootstrap/dist/js/bootstrap.min.js"
 const maxTime:number = 300*1000
 const timerText: HTMLSpanElement = document.querySelector("#timer") as HTMLSpanElement
 const question: HTMLParagraphElement = document.querySelector("#question") as HTMLParagraphElement // Question element type <p>
